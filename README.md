@@ -2,7 +2,7 @@
 
 ![GIF](https://github.com/Adityaakhouri/NanoSQL/blob/main/NANOSQL.png?raw=true)
 
-**NanoSQL DBMS** is a Java-based application created by **Aditya Akhoury** that provides essential functionalities for managing databases and tables within **MongoDB**. The tool allows users to perform basic database operations, including viewing, inserting, updating, and deleting data in MongoDB collections, all through an intuitive and user-friendly graphical interface.
+**NanoSQL DBMS** is a Java-based application that provides essential functionalities for managing databases and tables within **MongoDB**. The tool allows users to perform basic database operations, including viewing, inserting, updating, and deleting data in MongoDB collections, all through an intuitive and user-friendly graphical interface.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -85,4 +85,7 @@ Open-Source Community: Special thanks to the open-source community for providing
 Aditya AkhourI
 GitHub:  [adityaakhouri](https://github.com/adityaakhouri)
 Email: [adityakhouri66@gmail.com](mailto:adityakhouri66@gmail.com)
+
+License 🎫
+This project is licensed under the MIT License
 
