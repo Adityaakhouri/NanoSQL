@@ -81,11 +81,12 @@ Java Swing Documentation: The development of the GUI was greatly assisted by the
 
 Open-Source Community: Special thanks to the open-source community for providing valuable tools and inspiration for this project.
 
-👩‍💻 Author
-Aditya AkhourI
+# 👩‍💻 Author
+Aditya Akhouri
 GitHub:  [adityaakhouri](https://github.com/adityaakhouri)
+
 Email: [adityakhouri66@gmail.com](mailto:adityakhouri66@gmail.com)
 
-License 🎫
+# License 🎫
 This project is licensed under the MIT License
 
