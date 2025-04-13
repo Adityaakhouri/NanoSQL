@@ -83,8 +83,8 @@ Open-Source Community: Special thanks to the open-source community for providing
 
 # 👩‍💻 Author
 Aditya Akhouri
-GitHub:  [adityaakhouri](https://github.com/adityaakhouri)
 
+GitHub:  [adityaakhouri](https://github.com/adityaakhouri)
 Email: [adityakhouri66@gmail.com](mailto:adityakhouri66@gmail.com)
 
 # License 🎫
