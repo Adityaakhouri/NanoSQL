@@ -1,6 +1,6 @@
 # 📂 NanoSQL - Database Management System (DBMS)
 
-![GIF](https://github.com/kosa12/SQUEAL-MiniDBMS/blob/master/src/main/resources/introgif-ezgif.com-crop.gif)
+![GIF](https://github.com/Adityaakhouri/NanoSQL/raw/refs/heads/main/nanoSQL_animated_short_video.mp4)
 
 **NanoSQL DBMS** is a Java-based application created by **Aditya Akhoury** that provides essential functionalities for managing databases and tables within **MongoDB**. The tool allows users to perform basic database operations, including viewing, inserting, updating, and deleting data in MongoDB collections, all through an intuitive and user-friendly graphical interface.
 
