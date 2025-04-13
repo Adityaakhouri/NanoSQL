@@ -59,17 +59,9 @@ The Database Management System (DBMS) project is a Java-based application that p
 4. **Socket Programming:** Implemented for client-server communication, allowing multiple clients to interact with the server concurrently.
 5. **Swing:** Java's GUI toolkit utilized for building the graphical user interface, providing components such as buttons, text fields, and tables.
 
-## Analytics 📊
-![GitHub repo size](https://img.shields.io/github/repo-size/kosa12/MiniDBMS?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/kosa12/MiniDBMS?=red&style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/kosa12/SQUEL-MiniDBMS?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kosa12/SQUEL-MiniDBMS?style=for-the-badge)
 
 
 
-## Contributors 🤝
-- [Dacz Krisztian](https://github.com/dKriszti15)
-- [Kosa Matyas](https://github.com/kosa12)
 
 ## License 🎫
 
