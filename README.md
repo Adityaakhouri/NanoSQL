@@ -1,6 +1,6 @@
 # 🧪 NanoSQL: A Lightweight Educational DBMS
 
-> **NanoSQL** is a lightweight Python-based mini DBMS that simulates core SQL operations for educational purposes.
+> **NanoSQL** is a lightweight JAVA-based mini DBMS that simulates core SQL operations for educational purposes.
 
 ## 📌 Introduction
 Welcome to **NanoSQL** – my custom-built, lightweight DBMS engine designed to simulate how relational databases work under the hood. This project was born out of my curiosity to learn how SQL interpreters, data storage, and table schemas operate internally, without using any external libraries or full-fledged database systems.
